@@ -385,6 +385,9 @@ a{
     transition: .4s;
 }
 
+.menu-icon{
+    color: black;
+}
 
 .item-shop-img{
     display: block;
