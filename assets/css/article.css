@@ -1,0 +1,42 @@
+.article_body{
+    font-size: 22px;
+}                                                                                                                             
+
+body{
+    background-color: rgb(75, 74, 74);
+    color: #cfcfcf;
+}
+
+.article_container{
+    width: 80%;
+    height: 100%;
+    text-align: center;
+}
+
+.article_header{
+    text-align: center;
+    margin-block-end: 1.5;
+}
+
+.article_title{
+    font-size: 1.5rem;
+}
+
+.article_subtime{
+    font-size: 1.5rem;
+    color: rgba(110, 110, 110, 1);
+    margin-block-end: 1rem;
+}
+
+.article_date time{
+    color: rgb(189, 189, 189);
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+.content_head{
+    text-align: center;
+}
+
